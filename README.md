@@ -10,3 +10,13 @@
 [GMP模型与调度](https://github.com/sweetpear0108/learning-note/tree/main/golang/goroutine.md)
 
 [内存模型](https://github.com/sweetpear0108/learning-note/tree/main/golang/memory.md)
+
+[垃圾收集器](https://github.com/sweetpear0108/learning-note/tree/main/golang/collector.md)
+
+[init函数](https://github.com/sweetpear0108/learning-note/tree/main/golang/init.md)
+
+[I/O与netpoll](https://github.com/sweetpear0108/learning-note/tree/main/golang/netpoll.md)
+
+## git
+
+[常用命令](https://github.com/sweetpear0108/learning-note/tree/main/git/git.md)
